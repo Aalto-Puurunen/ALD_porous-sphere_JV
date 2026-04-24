@@ -14,10 +14,12 @@ C. Gonsalves, J. Järvilehto, S. Saedy, J.A. Velasco, T. Grehl, P. Brüner, N. H
 
 # Citing 
 Please cite as:
+
 J.A. Velasco and R. L. Puurunen, **ALD_porous-sphere_JV – Diffusion-reaction model for ALD on porous spheres**, (2025), Github repository, [https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV](https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV).
 
 # Copyright and license
 MIT License
+
 Copyright 2025 (c) Jorge A. Velasco and Riikka Puurunen, Aalto University
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
