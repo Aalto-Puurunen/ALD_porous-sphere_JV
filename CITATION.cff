@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Velasco
+    given-names: Jorge A.
+    orcid: https://orcid.org/0000-0002-3793-1197
+  - family-names: Puurunen
+    given-names: Riikka L.
+    orcid: https://orcid.org/0000-0001-8722-4864
+title: "ALD_porous-sphere_JV — Diffusion-reaction model for ALD on a porous sphere"
+version: 1.4.0
+license: MIT
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22304150"
+doi: "10.5281/zenodo.XXXXX"
+date-released: 2026-09-04
+repository-code: "https://github.com/Aalto-Puurunen/ALD_LHAR_JV"
