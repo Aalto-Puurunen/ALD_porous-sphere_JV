@@ -1,7 +1,5 @@
-# ALD_porous-sphere_JV
-
-Diffusion-reaction model for ALD on porous spheres
-
+# ALD_porous-sphere_JV — Diffusion-reaction model for ALD on a porous sphere
+Version: 1.4.0
 # Project description
 This Python script provides the solution of the one-dimensional diffusion equation with surface reaction for volumetric reactant number density and surface coverage as function of time along the radial coordinate of a porous sphere (Eq. 1 of Heikkinen et al., Phys. Chem. Chem. Phys., 2024, 26, 7580, DOI: [10.1039/d3cp05639b](https://doi.org/10.1039/D3CP05639B), for spheres). For the surface reaction, the model uses Langmuir adsorption and includes a desorption term (as in Eq. 16 of Ylilammi et al., J. Appl. Phys. 123, 205301, 2018, DOI: [10.1063/1.5028178](https://doi.org/10.1063/1.5028178)). The partial differential equations for diffusion and reaction are solved numerically. For the calculations, the effective diffusion coefficient is assumed to be constant along the porous sphere. This script can be used in a wide range of diffusion regimes (Kn number from Kn<<1 to Kn>>1). The script was written by Dr. Jorge A. Velasco, by request of Prof. Riikka L. Puurunen (Catalysis Group, Aalto University).
 
@@ -15,7 +13,7 @@ C. Gonsalves, J. Järvilehto, S. Saedy, J.A. Velasco, T. Grehl, P. Brüner, N. H
 # Citing 
 Please cite as:
 
-J.A. Velasco and R. L. Puurunen, **ALD_porous-sphere_JV – Diffusion-reaction model for ALD on porous spheres**, (2025), Github repository, [https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV](https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV).
+J.A. Velasco and R. L. Puurunen, **ALD_porous-sphere_JV – Diffusion-reaction model for ALD on a porous sphere (v1.4.0)**, (2025), Github repository, [https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV](https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV).
 
 # Acknowledgements
 The authors acknowledge funding from the GreenAro project (Business Finland), and finding from the GENESIS project under Grant Agreement no. 101194246 which is supported by the Chips JU and its members (including top-up funding by Business Finland) funded by the European Union.  
