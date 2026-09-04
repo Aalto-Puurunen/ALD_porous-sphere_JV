@@ -7,7 +7,7 @@ This Python script provides the solution of the one-dimensional diffusion equati
 The parameters for the simulation are entered in the accompanying file “Parameters_ALD_porous-spheres.xlsx”. The simulation is performed by running “ALD_porous-spheres_JV_v03.py”. There’s no need to modify the Python script nor the name of the parameters file. Once the simulation ends, the script creates a simulation results file (the given running code/name in the parameters file is shown in the result’s file name: “given running code”_simulation_results_v03.xlsx). The simulation results file includes input parameters, calculated values, final profiles for volumetric reactant number density, reactant pressure, surface coverage, and fraction of coated volume along the radial distance of the sphere. Calculated values include: diffusion coefficients, Knudsen number, Thiele modulus, weight percent of deposited metal, penetration depth and slope at half coverage.     
 
 # Publications 
-## v1.0.4
+## v1.4.0
 C. Gonsalves, J. Järvilehto, S. Saedy, J.A. Velasco, T. Grehl, P. Brüner, N. Heikkinen, J. Lehtonen, J.R. van Ommen, R.L. Puurunen. **From egg-shell to uniform distribution of platinum by atomic layer deposition on mesoporous alumina spheres: experiments and modeling**. RSC Applied Interfaces 3 (2026) 824–836. [https://doi.org/10.1039/D5LF00395D](https://doi.org/10.1039/D5LF00395D)
 
 # Citing 
