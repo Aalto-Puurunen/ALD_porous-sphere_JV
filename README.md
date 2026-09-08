@@ -15,7 +15,7 @@ C. Gonsalves, J. Järvilehto, S. Saedy, J.A. Velasco, T. Grehl, P. Brüner, N. H
 # Citing 
 Please cite as:
 
-J.A. Velasco and R. L. Puurunen, **ALD_porous-sphere_JV – Diffusion-reaction model for ALD on a porous sphere (v1.4.0)**, (2025), Github repository, [https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV](https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV).
+J.A. Velasco and R. L. Puurunen, **ALD_porous-sphere_JV – Diffusion-reaction model for ALD on a porous sphere (v1.4.0)**, (2025), Github repository, [https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV](https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV). [https://doi.org/10.5281/zenodo.22658963](https://doi.org/10.5281/zenodo.22658963)
 
 # Acknowledgements
 The authors acknowledge funding from the GreenAro project (Business Finland), and finding from the GENESIS project under Grant Agreement no. 101194246 which is supported by the Chips JU and its members (including top-up funding by Business Finland) funded by the European Union.  
