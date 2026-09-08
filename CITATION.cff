@@ -13,7 +13,7 @@ version: 1.4.0
 license: MIT
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.22304150"
-doi: "10.5281/zenodo.XXXXX"
+    value: "10.5281/zenodo.22658963"
+doi: "https://doi.org/10.5281/zenodo.22658963"
 date-released: 2026-09-04
-repository-code: "https://github.com/Aalto-Puurunen/ALD_LHAR_JV"
+repository-code: "https://github.com/Aalto-Puurunen/ALD_porous-sphere_JV"
