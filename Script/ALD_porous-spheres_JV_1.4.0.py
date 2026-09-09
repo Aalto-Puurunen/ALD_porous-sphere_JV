@@ -98,9 +98,9 @@ def system(t, y):
         d2nA =      (nA[i+1] - 2*nA[i] + nA[i-1]) / dr**2
         dnA_dr =    (nA[i+1] - nA[i-1]) / (2*dr)
         dnA_dt[i] = D * (d2nA + (2/r[i]) * dnA_dr) - ((k1 * nA[i] * (1 - theta[i])) - (kd*theta[i]))
-    # Center (r = 0)
-    d2nA_0 =     2 * (nA[1] - nA[0]) / dr**2
-    dnA_dt[0] =  D*d2nA_0 - k1*nA[0]*(1 - theta[0])
+    # Center (r = 0) Neumann BC
+    d2nA_0 =     6 * (nA[1] - nA[0]) / dr**2
+    dnA_dt[0] = D*d2nA_0 - (k1*nA[0]*(1 - theta[0]) - kd*theta[0])
     # Surface (r = Rp): Dirichlet BC
     nA[-1] =    nA0
     dnA_dt[-1] = 0  # boundary fixed
